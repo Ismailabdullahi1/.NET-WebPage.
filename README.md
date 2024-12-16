@@ -36,9 +36,7 @@ This is a **web application** built using **ASP.NET WebForms** and **C#**. It in
 ---
 
 
-## Installation Instructions
 
-### **Step 1: Clone the Repository**
 Clone this repository to your local machine using:
 ```bash
 git clone https://github.com/Ismailabdullahi1/.NET-WebPage
