@@ -19,7 +19,7 @@ This is a **web application** built using **ASP.NET WebForms** and **C#**. It in
 ### **2. Contact Us Page**
 - **Dynamic Form**:
   - Fields for **Name**, **Email**, and **Message**.
-  - A **Submit button** that clears the form after submission and displays a "Contact Submitted" message.
+  - A **Submit button** that clears the form after submission and displays a "Contact Submitted" message with user Name .
 - **Success Message**:
   - Displays dynamically upon form submission.
 ![Screenshot 2024-12-16 182007](https://github.com/user-attachments/assets/22a03e61-dfab-4e5f-aae5-bef6feab12e0)
@@ -34,10 +34,6 @@ This is a **web application** built using **ASP.NET WebForms** and **C#**. It in
 - **CSS**: For custom styling across the web application.
 
 ---
-Demo Video 
-
-
-https://github.com/user-attachments/assets/6c5b9954-b3c5-4a1f-bdb6-84fd557fac0d
 
 
 ## Installation Instructions
